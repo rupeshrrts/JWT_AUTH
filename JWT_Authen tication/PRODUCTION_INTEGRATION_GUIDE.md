@@ -2,7 +2,7 @@
 
 > **Universal, Enterprise-Ready Authentication System**: A plug-and-play template engineered with **Express.js**, **TypeScript**, **Prisma ORM**, **PostgreSQL**, **Next.js 14**, and **HttpOnly Cookies**. 
 > 
-> Designed to be copied into **ANY project** with minimal configuration in less than 5 minutes.
+> Designed to be copied into **ANY project** with minimal configuration in less than 5 minutes. g
 
 ---
 
